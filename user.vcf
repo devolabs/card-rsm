@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Sánchez;Ramón;;;
+FN: Ramón Sánchez Mejía
+ORG:DevoLabs;
+TITLE:Engineering Director
+EMAIL;type=INTERNET;type=WORK;type=pref:rsanchez@devolabs.io
+TEL;type=WORK;type=VOICE:+529842032693
+item1.ADR;type=WORK;type=pref:;;Playa del Carmen\Quintana Roo\;México
+item1.X-ABADR:sg
+item2.URL;type=pref:www.devolabs.io
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
